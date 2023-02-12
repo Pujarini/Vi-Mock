@@ -6,6 +6,11 @@ Schedule your mock interviews in no time.
 
 - Schedule your interviews
 
+## Rough design 
+
+<img width="1348" alt="Screenshot 2023-02-13 at 12 37 07 AM" src="https://user-images.githubusercontent.com/34391629/218331626-d87d81dc-ed3c-4788-b743-88aff814e4b3.png">
+
+
 ## 🛠️ Tech Stack
 
 - [React](https://reactjs.org/)
